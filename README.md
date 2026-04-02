@@ -51,11 +51,13 @@ It streamlines the leave approval process by automatically validating requests, 
 
 ### 🧠 n8n Workflow
 ![n8n Workflow](./screenshots/n8n-workflow.png)
+<img width="1300" height="703" alt="image" src="https://github.com/user-attachments/assets/1ead7310-7be9-40cd-b37d-4911fce9399a" />
 
 ---
 
 ### 📈 Power BI Dashboard
 ![Power BI Dashboard](./screenshots/powerbi-dashboard.png)
+<img width="799" height="445" alt="Screenshot 2026-04-01 155549" src="https://github.com/user-attachments/assets/a8071f5e-c378-4d3d-80df-a45a49ee35cf" />
 
 ---
 
